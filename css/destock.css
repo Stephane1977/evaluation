@@ -1,0 +1,93 @@
+
+
+ header  .text {
+    position: absolute;
+   
+    text-align: center;
+    margin-left: 300px;
+    
+    
+}
+
+header div .images {
+   
+    position: relative;
+    padding-top: 100px;
+   
+
+}
+ 
+
+header div h1,h3{
+    color: white;
+
+}
+
+header img {
+
+    width: 1500px;
+
+    padding-left: 100px;
+    padding-right :100px
+}   
+  
+.bouton{
+    position: absolute;
+     margin-left: 200px;
+     margin-bottom: 100px;
+    background-color: gainsboro;
+}
+
+
+    
+ .contenu {
+
+    display: flex;
+    padding-top: 100px;
+    text-align: center;
+    padding-left: 200px;
+    gap :500px
+
+}
+ .peugeot,.fordfocus, .audiA1, .moka {
+
+   display: flex;
+   margin-left: 100px;
+   padding-top: 100px;
+}
+*
+section .partiedroite {
+
+    display: block;
+    align-items: center;
+    gap: 200px;
+    padding-left: 200px;
+    padding-top :50px;
+
+}
+
+footer img {
+    width: 200px;
+
+    
+}
+
+.basdepage {
+
+    display: flex;
+    align-items: center;
+    margin-left :500px;
+    
+}
+
+footer div {
+display: flex;
+gap: 30px;
+padding-top: 100px;
+
+}
+
+#alert {
+
+    display: none;
+}
